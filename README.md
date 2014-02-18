@@ -1,4 +1,4 @@
-magento.menu.jquery
-===================
+Magento's menu.js delay script in jQuery
+========================================
 
-A jQuery implementation of Magento's menu.js delay script.
+A jQuery implementation of Magento's ```/js/varien/menu.js``` (sub)menu delay script.
